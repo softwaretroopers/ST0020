@@ -2075,7 +2075,7 @@ header .navbar-expand .navbar-brand img {
   font-size: 1.25rem;
   font-weight: 500;
   border: none;
-  color: white;
+  color: #0075f2;
 }
 
 .theme-mode-dark .menu .nav-link:first-child {
@@ -4151,7 +4151,7 @@ footer .copyright a:not(.btn) {
   padding: 25px;
   border: none;
   font-weight: 600;
-  color: white;
+  color: #0075f2;
   border-radius: 0;
 }
 
